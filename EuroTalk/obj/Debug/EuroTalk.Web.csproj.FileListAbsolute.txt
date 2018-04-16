@@ -1,0 +1,2 @@
+C:\Users\nicolas.faqir\Desktop\DotNet\EuroTalk\EuroTalk\obj\Debug\EuroTalk.Web.csprojResolveAssemblyReference.cache
+C:\Users\nicolas.faqir\Desktop\DotNet\EuroTalk\EuroTalk\obj\Debug\EuroTalk.Web.csproj.CoreCompileInputs.cache
